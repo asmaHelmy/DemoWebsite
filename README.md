@@ -1,5 +1,5 @@
 # DemoWebsite
-Demo website showing how Machine Larning models can be integrated into college website to improve students' learning experience.
+Demo website showing how Machine Learning models can be integrated into college website to improve students' learning experience.
 
 ## Machine Larning Models used:
 1. Content Based Recommendation; Recommending similar courses and a suitable job based on student's favourite course.
