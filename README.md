@@ -7,7 +7,13 @@ https://github.com/smsm15/Content-based-Recommendation-System
 
 2. GPA Prediction: https://github.com/smsm15/improve_education_v1.0.0
  
- 
+## Required Packages:
+
+- Angularjs v4
+- Expressjs
+- MongoDB
+- Bootstrap
+
 ### Screenshots
 
 ![alt text](./Screenshots/1.png "Homepage")
